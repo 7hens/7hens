@@ -28,11 +28,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <!-- ### Github stats -->
 
 <a href="https://github.com/7hens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7hens&count_private=true&show_icons=true&include_all_commits=true&line_height=24px&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=7hens&count_private=true&show_icons=true&include_all_commits=true&line_height=24px&hide_rank=false" />
 </a>
-<a href="https://github.com/7hens">
+<!-- <a href="https://github.com/7hens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7hens&count_private=true&layout=compact&langs_count=8" />
-</a>
+</a> -->
 
 <!-- ### Languages and Tools -->
 
