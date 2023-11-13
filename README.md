@@ -21,7 +21,6 @@ https://github.com/anuraghazra/github-readme-stats
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
-- 🌱 I’m currently learning **Spring**, **Redis**
 - 💬 Ask me about **Android, Kotlin**
 - 📫 How to reach me **thenstango@live.com**
 
