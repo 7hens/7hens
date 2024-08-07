@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Thens
+# Hi 👋, I'm Zane
 
 ### A passionate Android developer from China
 
