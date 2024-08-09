@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Lawrence
+# Hi 👋, I'm Thens
 
 ### A passionate Android developer from China
 
